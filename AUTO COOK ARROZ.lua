@@ -6,5 +6,6 @@ return {
       911156, -- firxty
       926572,  -- Tvers
       918799, -- Daoza
-      924208  -- Tvers add uid
+      924208,  -- Tvers add uid
+      248292 -- Vanx
 } 
