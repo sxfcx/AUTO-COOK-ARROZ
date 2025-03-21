@@ -8,5 +8,6 @@ return {
       918799, -- Daoza
       924208,  -- Tvers add uid
       248292, -- Vanx
-      78693 -- Mahess
+      78693, -- Mahess
+      697126 -- Youknowfandz
 } 
