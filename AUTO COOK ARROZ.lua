@@ -9,5 +9,6 @@ return {
       924208,  -- Tvers add uid
       248292, -- Vanx
       78693, -- Mahess
-      697126 -- Youknowfandz
+      697126, -- Youknowfandz
+      615655 -- Afangoodjob
 } 
