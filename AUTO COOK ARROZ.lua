@@ -10,5 +10,6 @@ return {
       248292, -- Vanx
       78693, -- Mahess
       697126, -- Youknowfandz
-      615655 -- Afangoodjob
+      615655, -- Afangoodjob
+      904834 -- DikaSuhaTaku
 } 
