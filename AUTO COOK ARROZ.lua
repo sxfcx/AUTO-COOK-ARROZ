@@ -11,5 +11,6 @@ return {
       78693, -- Mahess
       697126, -- Youknowfandz
       615655, -- Afangoodjob
-      904834 -- DikaSuhaTaku
+      904834, -- DikaSuhaTaku
+      780667 -- apalah
 } 
